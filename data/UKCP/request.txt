@@ -1,0 +1,12 @@
+Area = admin_region|South East England
+ClimateChangeType = absolute
+Collection = land-cpm
+DataFormat = csv
+EnsembleMemberSet = land-cpm
+JobLabel = Mean Air Temp at 1.5m C, Daily,
+TemporalAverage = day
+TimeSlice = 1980|2081
+Variable = tas
+
+Process Identifier = LS3A_Subset_02
+Software Version = WPS-2.12.0-DP-2.12.0-CV-1.0.10
